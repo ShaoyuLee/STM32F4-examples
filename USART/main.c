@@ -1,14 +1,13 @@
-<<<<<<< HEAD
-=======
 /*
 1 change
 2 change2
 
 3 change
 4 change
+
+5 chang
 */
 
->>>>>>> parent of d4eae4f... Revert "第二次修改"
 #include <stm32f4xx.h>
 #include <misc.h>			 // I recommend you have a look at these in the ST firmware folder
 #include <stm32f4xx_usart.h> // under Libraries/STM32F4xx_StdPeriph_Driver/inc and src
